@@ -1,5 +1,27 @@
 # Docs changelog
 
+**3 March 2026**
+
+We've added a new reference article, [Copilot customization cheat sheet](https://docs.github.com/copilot/reference/customization-cheat-sheet), to help you choose the right Copilot customization approach for your workflow.
+
+The article compares Copilot customization options, including what each one does, how to configure it, and where it is supported across IDEs and Copilot surfaces. It also explains what each option is best for, with common use cases to help you decide what to use.
+
+<hr>
+
+**2 March 2026**
+
+We've added an article about the new `/research` slash command in Copilot CLI:
+
+[Researching with GitHub Copilot CLI](https://docs.github.com/copilot/concepts/agents/copilot-cli/research)
+
+<hr>
+
+**27 February 2026**
+
+We've extended the reference information for Copilot CLI, adding much more detail. See [GitHub Copilot CLI command reference](https://docs.github.com/en/copilot/reference/cli-command-reference#custom-agents-reference).
+
+<hr>
+
 **25 February 2026**
 
 We've added many new articles to coincide with the [general availability release](https://github.blog/changelog/2026-02-25-github-copilot-cli-is-now-generally-available/) of Copilot CLI. These include:

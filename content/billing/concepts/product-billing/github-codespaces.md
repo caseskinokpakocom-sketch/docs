@@ -5,9 +5,6 @@ intro: 'Learn about the costs for using {% data variables.product.prodname_githu
 versions:
   fpt: '*'
   ghec: '*'
-topics:
-  - Codespaces
-  - Billing
 redirect_from:
   - /billing/managing-billing-for-github-codespaces/about-billing-for-codespaces
   - /github/developing-online-with-codespaces/about-billing-for-codespaces
@@ -135,6 +132,8 @@ A {% data variables.enterprise.prodname_managed_user %} cannot be the billable o
 ## Managing your budget for {% data variables.product.prodname_github_codespaces %}
 
 {% data reusables.billing.default-over-quota-behavior %}
+
+You can also receive email notifications when your included {% data variables.product.prodname_github_codespaces %} usage reaches 90% and 100% during a billing period. For more information, see [AUTOTITLE](/billing/concepts/budgets-and-alerts#included-usage-alerts).
 
 {% data reusables.codespaces.exporting-changes %}
 
